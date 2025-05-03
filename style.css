@@ -19,7 +19,7 @@
     padding: 80px 20px;
     text-align: center;
     min-height: 100vh;
-    background-image: url('grid-bg.png'); /* Optional grid bg */
+    background-image: url('grid-bg.png'); 
     background-size: cover;
     background-position: center;
   }
